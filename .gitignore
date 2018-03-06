@@ -32,4 +32,8 @@
 *.app
 
 # IDEs
-.vscode
+/.vscode/
+
+# builds and installs
+/build*/
+/install/
