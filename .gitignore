@@ -33,6 +33,7 @@
 
 # IDEs
 /.vscode/
+/.vs/
 
 # builds and installs
 /build*/
